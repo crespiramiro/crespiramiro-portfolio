@@ -3,7 +3,7 @@ import { CSS, Expressjs, HTML5, JWT, JavaScript, MongoDB, Nextjs, Nodejs, React,
 export const projects = [
     {
       title: "Stock Manager",
-      description: "Aplicación para gestionar el stock de productos con autenticación y gráficos interactivos.",
+      description: "Application to manage product stock with authentication and interactive graphics",
       media: "project-images/Project1.png",
       github: "https://github.com/crespiramiro/stock-manager/",
       link: "https://stock-manager-crespiramiros-projects.vercel.app/",
@@ -12,7 +12,7 @@ export const projects = [
     },
     {
       title: "React Project (Avant Studios)",
-      description: "Sección de productos destacados y carrito de compras con diseño responsivo.",
+      description: "Modern design landing page with Featured Products Section and Shopping Cart",
       media: "project-images/ProjectVideo2.webm",
       github: "https://github.com/crespiramiro/react-project/",
       link: "https://react-project-crespiramiros-projects.vercel.app/",
@@ -22,7 +22,7 @@ export const projects = [
     },
     {
       title: "World Football",
-      description: "Consulta la tabla de posiciones y los últimos partidos de la Premier League.",
+      description: "Check out the Premier League standings and the latest matches of your favourite team",
       media: "project-images/Project3.png",
       github: "https://github.com/crespiramiro/football-world/",
       link: "https://football-world-crespiramiros-projects.vercel.app/",
@@ -31,7 +31,7 @@ export const projects = [
     },
     {
       title: "Todo App TSX",
-      description: "Gestiona tus tareas con opciones para agregar, eliminar y cambiar entre temas.",
+      description: "to-do app with options to add, remove and switch between themes",
       media: "project-images/Project-4.png",
       github: "https://github.com/crespiramiro/todo-tsx/",
       link: "https://todo-tsx-crespiramiros-projects.vercel.app/",
